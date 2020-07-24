@@ -1,9 +1,6 @@
 ###  👋 I'm Rem 👋
 
-“No matter where you are in the
-system life cycle, the system will
-change, and the desire to change it
-will persist throughout the life cycle”
+“Software never was perfect and won’t get perfect and you too”
 <!--
 **nguyentuyetnhungpht/nguyentuyetnhungpht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

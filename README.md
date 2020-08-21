@@ -1,5 +1,3 @@
-##  👋 I'm Rem 👋
-
 “Software never was perfect and won’t get perfect and you too”
 
 <!--

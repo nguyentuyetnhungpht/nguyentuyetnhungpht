@@ -39,3 +39,6 @@
 [jsplaylist]: https://www.facebook.com/nguyentuyetnhung111/
 [cssplaylist]: https://www.facebook.com/nguyentuyetnhung111/
 [reactplaylist]: https://www.facebook.com/nguyentuyetnhung111/
+
+
+### Học dở quá thì làm gì? Thì học nữa...

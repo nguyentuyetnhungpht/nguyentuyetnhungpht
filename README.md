@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Rem 👋
 
-### I'm a student FE!
+### I'm studying Deep Learning!
 
 - 🔭 I’m currently working on a ... (I am finding ...)
 - 🌱 I’m currently learning everything 🤣
